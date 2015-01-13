@@ -11,12 +11,12 @@ It's my first attempt at making a Jekyll site based on bootstrap, and for the mo
 The plan is to use this website as something halfway between a static site and a blog where I can post guides/articles/projects and whatever needs a home on the web.
 </p>
 
-<div class="col-md-6 col-md-offset-3">
+<div class="col-md-8 col-md-offset-2">
 <h4 class="text-center">Posts</h4>
 <div class="list-group text-center">
   {% for post in site.posts limit: 5 %}
   	<a href="{{ post.url }}" class="list-group-item">
-		<h4 class="list-group-item-heading">{{ post.title }}</h4>
+		<h5 class="list-group-item-heading">{{ post.title }}</h5>
 		<p class="list-group-item-text">{{ post.description }}</p>
 	</a>
   {% endfor %}

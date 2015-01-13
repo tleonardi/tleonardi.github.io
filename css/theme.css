@@ -49,3 +49,7 @@ p, div {
     font-family: 'Droid Serif', Georgia, Times, serif;
     font-size: 14px;
 }
+
+.navbar-brand {
+	padding-top: 8px;
+}

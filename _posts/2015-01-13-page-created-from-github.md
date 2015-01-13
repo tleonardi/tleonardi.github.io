@@ -1,6 +1,6 @@
 ---
 title: Page created from github
-description: This is my first attempo at posting from gtihub
+description: This is my first attempt at posting from github
 layout: default
 ---
 
