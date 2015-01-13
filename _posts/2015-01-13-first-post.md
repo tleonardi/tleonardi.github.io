@@ -1,5 +1,6 @@
 ---
 title: My first post
+description: Attempt at making a post
 layout: default
 ---
 
