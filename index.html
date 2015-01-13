@@ -1,0 +1,22 @@
+---
+title: First page
+layout: default
+active: home
+---
+
+<h1>My first page</h1>
+
+<p class="text-justify">Hi there, this is my first post.
+It's my first attempt at making a Jekyll site based on bootstrap, and for the moment it looks pretty neat!
+The plan is to use this website as something halfway between a static site and a blog where I can post guides/articles/projects and whatever needs a home on the web.
+</p>
+
+<div class="col-md-4 col-md-offset-4">
+<h4 class="text-center">Posts</h4>
+<div class="list-group text-center">
+  {% for post in site.posts limit: 5 %}
+  		<a href="{{ post.url }}" class="list-group-item">{{ post.title }}</a>
+  {% endfor %}
+
+</div>
+</div>

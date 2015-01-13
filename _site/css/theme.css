@@ -1,0 +1,51 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+  background: url(/img/debut_light.png) repeat 0 0;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Droid Serif', Georgia, Times, serif;
+}
+h1 {
+    font-size: 46px;
+}
+h2 {
+    font-size: 40px;
+}
+h3 {
+    font-size: 34px;
+}
+h4 {
+    font-size: 28px;
+}
+h5 {
+    font-size: 22px;
+}
+h6 {
+    font-size: 16px;
+}
+
+p, div {
+    font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
+    font-size: 22px;
+}
+
+#navbar {
+    font-family: 'Droid Serif', Georgia, Times, serif;
+    font-size: 14px;
+}
