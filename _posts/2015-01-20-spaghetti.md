@@ -3,6 +3,7 @@ title: Spaghetti on TV
 description: Some media coverage on Italian national tv
 layout: default
 ---
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54c0de0b1183e8c4" async="async"></script>
 
 # Spaghetti on TV
 
