@@ -14,6 +14,6 @@ A few weeks ago the story was picked up by Tele2000, an Italian national TV. The
 Here it is (it's in italian, but if you want to laugh you can activate the subtitles and then have them automatically translated):
 
 
-
-<iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/qpS43c4uRWs?rel=0" frameborder="0" allowfullscreen></iframe>
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="640" height="360" src="//www.youtube-nocookie.com/embed/qpS43c4uRWs?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
