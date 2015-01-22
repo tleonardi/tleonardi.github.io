@@ -53,3 +53,8 @@ p, div {
 .navbar-brand {
 	padding-top: 8px;
 }
+
+.navtext {
+
+  color: #777;
+}
